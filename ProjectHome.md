@@ -1,0 +1,1 @@
+This project provides a general framework for simulating auctions, in an attempt find fair prices and model the flow of goods.  The auction is done in rounds, where each agent in each round is completely blind to the others in the same round, so as to maximize the potential parallelization of agents' computation.
